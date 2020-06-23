@@ -1,0 +1,110 @@
+{
+    "round 1": [{
+            "name": "Osemudiamen Erolan",
+            "username": "@osemudiamen",
+            "points": 1598
+        },
+        {
+            "name": "Emmanuel Olowu",
+            "username": "@emmanuelr20",
+            "points": 1588
+        },
+        {
+            "name": "Samuel Ohidoa",
+            "username": "@sam",
+            "points": 1454
+        },
+        {
+            "name": "James Mccarty",
+            "username": "@james",
+            "points": 1508
+        },
+        {
+            "name": "Marshall Matters",
+            "username": "@marshall",
+            "points": 1518
+        },
+        {
+            "name": "Todd John",
+            "username": "@todd",
+            "points": 1028
+        },
+        {
+            "name": "Steven Gerrard",
+            "username": "@gerrard",
+            "points": 1598
+        }
+    ],
+    "round 2": [{
+            "name": "Osemudiamen Erolan",
+            "username": "@osemudiamen",
+            "points": 1346
+        },
+        {
+            "name": "Emmanuel Olowu",
+            "username": "@emmanuelr20",
+            "points": 1376
+        },
+        {
+            "name": "Samuel Ohidoa",
+            "username": "@sam",
+            "points": 1073
+        },
+        {
+            "name": "James Mccarty",
+            "username": "@james",
+            "points": 990
+        },
+        {
+            "name": "Marshall Matters",
+            "username": "@marshall",
+            "points": 1083
+        },
+        {
+            "name": "Todd John",
+            "username": "@todd",
+            "points": 708
+        },
+        {
+            "name": "Steven Gerrard",
+            "username": "@gerrard",
+            "points": 907
+        }
+    ],
+    "round 3": [{
+            "name": "Osemudiamen Erolan",
+            "username": "@osemudiamen",
+            "points": 1898
+        },
+        {
+            "name": "Emmanuel Olowu",
+            "username": "@emmanuelr20",
+            "points": 1700
+        },
+        {
+            "name": "Samuel Ohidoa",
+            "username": "@sam",
+            "points": 1600
+        },
+        {
+            "name": "James Mccarty",
+            "username": "@james",
+            "points": 1225
+        },
+        {
+            "name": "Marshall Matters",
+            "username": "@marshall",
+            "points": 1618
+        },
+        {
+            "name": "Todd John",
+            "username": "@todd",
+            "points": 1021
+        },
+        {
+            "name": "Steven Gerrard",
+            "username": "@gerrard",
+            "points": 1698
+        }
+    ]
+}

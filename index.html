@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeaderBoard</title>
+    <link href="https://fonts.googleapis.com/css?family=Nunito:100,200,300,400,500,600,700" rel='stylesheet'
+        type='text/css'>
+    <link rel="stylesheet" href="./assets/index.css">
+</head>
+
+<body>
+    <nav>
+        <div class="container">
+            <h3>LeaderBoard</h3>
+        </div>
+    </nav>
+    <div class="container">
+        <div id="app">
+            <event-round v-for="(item, key) in rounds" @click="setRound(item, key)" :isactive="key === roundKey">
+                {{ key }}
+            </event-round>
+            <div class="leaders">
+                <event-leader v-for="(leader, index) in leaders" :leader="leader">
+                </event-leader>
+            </div>
+            <event-order></event-order>
+            <event-participant v-for="(participant, index) in participants" :participant="participant">
+            </event-participant>
+        </div>
+    </div>
+    <script src="./assets/vue.js"></script>
+    <script src="./assets/index.js"></script>
+</body>
+
+</html>
